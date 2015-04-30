@@ -8,7 +8,6 @@ import java.awt.FontMetrics;
 import static game2048.gui.BoardDisplay.*;
 
 /** Represents the image of a numbered tile on a 2048 board.
- *  @author P. N. Hilfinger.
  */
 class Tile {
     /** Amount to move in TICK milliseconds (in pixels). */

@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 /** The input/output and GUI controller for play of a game of 2048.
- *  @author P. N. Hilfinger. */
+ */
 public class Game {
 
     /** Probability of choosing 2 as random tile (as opposed to 4). */

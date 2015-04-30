@@ -7,7 +7,6 @@ import ucb.gui.TopLevel;
 import ucb.gui.LayoutSpec;
 
 /** The GUI controller for a 2048 board and buttons.
- *  @author P. N. Hilfinger
  */
 class GameDisplay extends TopLevel {
 

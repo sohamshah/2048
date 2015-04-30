@@ -10,7 +10,6 @@ import java.awt.Graphics2D;
 import java.awt.FontMetrics;
 
 /** A widget that displays a 2048 board.
- *  @author P. N. Hilfinger
  */
 class BoardDisplay extends Pad {
 
